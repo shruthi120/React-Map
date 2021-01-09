@@ -40,4 +40,4 @@ npm run build
 
 npm run deploy
 
-The published To-do App: https://shruthi120.github.io/React-Map/
+The published To-do App: http://localhost:3000/
