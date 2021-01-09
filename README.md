@@ -40,4 +40,3 @@ npm run build
 
 npm run deploy
 
-The published To-do App:  https://shruthi120.github.io/React-Map/
